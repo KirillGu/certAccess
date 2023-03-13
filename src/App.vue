@@ -74,10 +74,10 @@ export default {
     const data = urlParams.get("name")
     console.log(data)
     if (data === "154723562756@2356238562@35892798347@@6934720982309582305@"){
-      this.name = "A***** F*****"
-      this.dob = '20.07.1999'
-      this.np = "45** ***274"
-      this.ip = "7* ****009"
+      this.name = "S******* I***"
+      this.dob = '01.06.1972'
+      this.np = "75** ***985"
+      this.ip = "7* ****311"
       this.numCert = "1000 7509 1226 8087"
 
     } else {
